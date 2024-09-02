@@ -1,6 +1,9 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
+meu nome e giovana 
+Estou estudando no alura
+Utilizo esse espaco para minha organizacao e realizacao dos meus prjetos realizados
 
-<!--
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVpbnY5M2Q1Y25yY2FyZXoxZ2sybzB1dnE0MnpjNnhmMm83N2lsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XLWNWgg42wbKVi/giphy.gif)<!--
 **giogiuwy/giogiuwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
